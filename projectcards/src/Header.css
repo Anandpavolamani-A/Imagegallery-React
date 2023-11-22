@@ -1,0 +1,47 @@
+.container {
+    padding: 15px 0;
+    background-color: black;
+}
+
+.mx-w {
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.search {
+    width: 462px;
+    height: 40px;
+    margin-top: 9px;
+    margin-right: -6px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px ;
+}
+
+.size {
+    float: right;
+    padding: 11px;
+    margin-top: 7px;
+    margin-left: -3px;
+    margin-right: 40px;
+    background: #ddd;
+    font-size: 18px;
+    cursor: pointer;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius:10px ;
+}

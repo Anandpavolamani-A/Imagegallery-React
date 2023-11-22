@@ -1,0 +1,26 @@
+.bttn{
+    background-color: rgb(18, 218, 168);
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    margin:15px;
+    width: 200px;
+}
+.bttn:hover{
+    /* background: black; */                
+    color: aliceblue;
+}
+div{
+    text-align: center;
+}
+.buttons{
+    position: sticky;
+    top: 0;
+    /* background-color: rgb(30 28 28); */
+}
